@@ -1,1 +1,3 @@
-# wordpress-site
+# Wordpress Site
+### KEC IT Club
+
